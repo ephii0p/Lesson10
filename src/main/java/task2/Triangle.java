@@ -1,9 +1,9 @@
 package task2;
 
 class Triangle implements Shape {
-    private double a; // сторона a
-    private double b; // сторона b
-    private double c; // сторона c
+    private double a;
+    private double b;
+    private double c;
     private String fillColor;
     private String borderColor;
 
